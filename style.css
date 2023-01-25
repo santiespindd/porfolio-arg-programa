@@ -1,0 +1,23 @@
+.gradiente{
+   background: linear-gradient(90deg, #6A56E6 13.54%, #5033CE 46.35%, #2D15B2 80.21%);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+   
+}
+
+
+
+body{
+    font-family: 'Bai Jamjuree';
+}
+
+.bg-gradiente{
+    background: linear-gradient(90deg, #6A56E6 13.54%, #5033CE 46.35%, #2D15B2 80.21%);
+
+}
+
+.banner{
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
