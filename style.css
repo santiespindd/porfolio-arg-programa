@@ -11,6 +11,7 @@
 
 body{
     font-family: 'Bai Jamjuree';
+    overflow-x: hidden;
 }
 
 .bg-gradiente{
@@ -21,3 +22,7 @@ body{
 .banner{
     text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
+
+.dev-icons {
+    font-size: 4rem;
+  }
